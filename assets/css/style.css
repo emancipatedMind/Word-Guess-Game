@@ -1,0 +1,11 @@
+container.img-fluid {
+height: auto;
+max-width: 2000px;
+}
+
+.img {
+float: left;
+margin: 40px;
+margin-top: 500px;
+
+}
